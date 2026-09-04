@@ -14,6 +14,6 @@ cask "flowbaton-beta" do
   end
 
   name "FlowBaton"
-  desc "Pre-alpha mobile UI automation toolkit"
+  desc "Mobile UI automation toolkit"
   homepage "https://github.com/larchwave/flowbaton"
 end
